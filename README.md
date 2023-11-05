@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">A passionate software engineer from Italy</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Cloud-based technologies**
+- 🌱 I’m currently learning **Advanced Math and AI**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/francesco-paolo-sferratore](www.linkedin.com/in/francesco-paolo-sferratore)
 
