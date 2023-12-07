@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Advanced Math and AI**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/francesco-paolo-sferratore](www.linkedin.com/in/francesco-paolo-sferratore)
-
 - 📫 How to reach me **sferratore.francescopaolo00@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/francesco-paolo-sferratore](www.linkedin.com/in/francesco-paolo-sferratore)
